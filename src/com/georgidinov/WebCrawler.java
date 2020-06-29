@@ -54,7 +54,7 @@ public class WebCrawler {
         }
 
         this.logFoundSites(logPath);
-        System.out.println("All Found Sites Are Logged In: " + LOG_FILE_DIRECTORY);
+        System.out.println("All Found Sites Are Logged In: " + LOG_FILE_DIRECTORY + " directory");
     }//end of method crawl
 
 
