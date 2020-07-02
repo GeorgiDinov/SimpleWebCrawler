@@ -9,7 +9,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        String siteUrl = "http://google.com/";
+        String siteUrl = "https://www.mail.bg";
 
         //== dependency injection for my Web Crawler ==
         Queue<String> queue = new ArrayDeque<>();

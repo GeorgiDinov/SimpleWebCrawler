@@ -1,7 +1,0 @@
-http://google.com/
-http://schema.org
-http://www.google.bg
-http://maps.google.bg
-http://www.youtube.com
-http://news.google.bg
-http://www.google.com
